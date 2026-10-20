@@ -1,4 +1,3 @@
-
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -15,13 +14,13 @@
 
         body {
             font-family: Arial, sans-serif;
-            background-color: #f1f5f9;
+            background-color: #f0fdf4;
             color: #1e293b;
         }
 
         /* Navbar */
         header {
-            background-color: #0f172a;
+            background-color: #14532d;
             color: white;
             padding: 20px 8%;
             display: flex;
@@ -32,7 +31,7 @@
         }
 
         header h2 {
-            color: #38bdf8;
+            color: #86efac;
         }
 
         nav a {
@@ -42,13 +41,13 @@
         }
 
         nav a:hover {
-            color: #38bdf8;
+            color: #86efac;
         }
 
         /* Beranda */
         .hero {
             min-height: 450px;
-            background: linear-gradient(135deg, #0f172a, #1d4ed8);
+            background: linear-gradient(135deg, #14532d, #22c55e);
             color: white;
             display: flex;
             flex-direction: column;
@@ -78,8 +77,8 @@
 
         .btn {
             display: inline-block;
-            background-color: #38bdf8;
-            color: #0f172a;
+            background-color: #bbf7d0;
+            color: #14532d;
             padding: 12px 25px;
             border-radius: 25px;
             text-decoration: none;
@@ -97,7 +96,7 @@
         }
 
         section h2 {
-            color: #1d4ed8;
+            color: #15803d;
             margin-bottom: 20px;
         }
 
@@ -130,12 +129,12 @@
 
         .kartu h3 {
             margin-bottom: 10px;
-            color: #2563eb;
+            color: #15803d;
         }
 
         /* Makanan yang telah dibuat */
         .makanan {
-            background-color: #eaf2ff;
+            background-color: #f0fdf4;
         }
 
         .makanan-container {
@@ -166,7 +165,7 @@
         }
 
         .makanan-card h3 {
-            color: #2563eb;
+            color: #15803d;
             padding: 15px 10px 5px;
         }
 
@@ -177,7 +176,7 @@
 
         /* Kontak */
         .kontak {
-            background-color: #dbeafe;
+            background-color: #dcfce7;
         }
 
         .kontak p {
@@ -185,7 +184,7 @@
         }
 
         footer {
-            background-color: #0f172a;
+            background-color: #14532d;
             color: white;
             text-align: center;
             padding: 20px;
@@ -355,4 +354,3 @@
 
 </body>
 </html>
-```
